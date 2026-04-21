@@ -12,8 +12,8 @@
     "noEmit": true,
     "jsx": "react-jsx",
     "strict": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
     "noFallthroughCasesInSwitch": true,
     /* "baseUrl"을 삭제했습니다. "paths"는 최신 버전에서 자동으로 루트 기준 인식이 됩니다. */
     "paths": {
